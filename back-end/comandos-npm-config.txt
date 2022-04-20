@@ -1,0 +1,11 @@
+// instruções npm/yarn
+npm init em vez de yarn init
+npm install módulo em vez de yarn add módulo
+npm run script em vez de yarn script
+npx comando em vez de yarn comando
+
+// rodar o servidor (dev)
+npm run dev
+
+// parar o servidor
+Ctrl+C
